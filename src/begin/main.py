@@ -7,6 +7,7 @@ from surf_bend import VirtualAtoms
 from energies import Energies
 from minimize_E import minimize
 
+print hurraa
 
 layers, n       =   2, 12
 surfAtoms       =   VirtualAtoms(layers, n)
